@@ -1,2 +1,5 @@
-# Testando Github
- Apenas aprendendo a usar github e git.
+# Testando Github pela primeira vez!
+ Aprendendo Git e GitHub para me aprofundar ainda mais no Python.
+
+ Repositório criado para teste.
+ 
